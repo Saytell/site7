@@ -50,8 +50,12 @@ section .filter ul{
     list-style-type: none;
 }
 
+section .filter li{
+    height: 25px;
+}
+
 .container{
-    padding-top: 0px;
+    padding-top: 10px;
 }
 
 .container .product{
@@ -118,6 +122,10 @@ footer .top .link div{
 
 footer .top ul{
     list-style-type: none;
+}
+
+footer .top li{
+    height: 25px;
 }
 
 footer .bottom{
